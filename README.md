@@ -16,7 +16,9 @@ Assignments for each week are organized into independent filefoders.
 
 ## Week 1: Laser-cutting
 **Goal**: Using Fusion360 to design elements for laser-cutting, and integrate the elements into interesting structures: Coaster & Bookmark. 
+
 **Sofeware**: Fusion360
+
 **Show**: 
 
 
@@ -70,6 +72,7 @@ The LCD screen will say "Hello Shuran, Good Luck!".
 ## week 5: 3D Scanning
 
 **Goal**: Scan my head, adjust and 3D-print it.
+
 **Software**: Meshmixer & 3D systems Sense
 
 **Show**:
@@ -100,3 +103,5 @@ The LCD screen will say "Hello Shuran, Good Luck!".
 ![Your Mood Cooker-2](./Final Project/Final_Project_2.jpg) 
 
 ![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
+
+![3D-Scaning-3](./Week5_3D-Scaning/3D-Scaning_3.jpg) 
