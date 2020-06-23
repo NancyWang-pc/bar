@@ -73,20 +73,30 @@ The LCD screen will say "Hello Shuran, Good Luck!".
 **Software**: Meshmixer & 3D systems Sense
 
 **Show**:
-![Scaffold of the machine](./Week5_3D-Scaning/3D-Scaning_1.jpg) 
-![Scaffolf of the machine](./Week5_3D-Scaning/3D-Scaning_2.jpg)
-![Scaffolf of the machine](./Week5_3D-Scaning/3D-Scaning_3.jpg) 
+![3D-Scaning-1](./Week5_3D-Scaning/3D-Scaning_1.jpg) 
+![3D-Scaning-2](./Week5_3D-Scaning/3D-Scaning_2.jpg)
+![3D-Scaning-3](./Week5_3D-Scaning/3D-Scaning_3.jpg) 
 
 
 ## Final Project: 
 **Goal**: Design a cooker that can make recipes according to your mood.
+
 **Software**: Fusion360; Arduino
+
 **Elements**:
+
 ![Final_Project_4_LED-Screen](./Final Project/Final_Project_4_LED-Screen.jpg) 
+
 ![LED-Screen](./Final Project/Final_Project_5.jpg) 
+
 ![Self-made Recipe](./Final Project/Final_Project_6.jpg) 
+
 ![Logo & 3D-Printed Pot](./Final Project/Final_Project_7.jpg) 
+
 **Prototype**: Refer to the vedio in "Final Project Filefold".
+
 ![Your Mood Cooker-1](./Final Project/Final_Project_1.jpg) 
+
 ![Your Mood Cooker-2](./Final Project/Final_Project_2.jpg) 
+
 ![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
