@@ -90,18 +90,17 @@ The LCD screen will say "Hello Shuran, Good Luck!".
 
 ![Final_Project_4_LED-Screen](./Final Project/Final_Project_4_LED-Screen.jpg) 
 
-![LED-Screen](./Final Project/Final_Project_5.jpg) 
+![LED-Screen](./Final_Project/Final_Project_5.jpg) 
 
-![Self-made Recipe](./Final Project/Final_Project_6.jpg) 
+![Self-made Recipe](./Final_Project/Final_Project_6.jpg) 
 
-![Logo & 3D-Printed Pot](./Final Project/Final_Project_7.jpg) 
+![Logo & 3D-Printed Pot](./Final_Project/Final_Project_7.jpg) 
 
 **Prototype**: Refer to the vedio in "Final Project Filefold".
 
-![Your Mood Cooker-1](./Final Project/Final_Project_1.jpg) 
+![Your Mood Cooker-1](./Final_Project/Final_Project_1.jpg) 
 
-![Your Mood Cooker-2](./Final Project/Final_Project_2.jpg) 
+![Your Mood Cooker-2](./Final_Project/Final_Project_2.jpg) 
 
-![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
+![Your Mood Cooker-3](./Final_Project/Final_Project_3.jpg) 
 
-![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
