@@ -104,4 +104,4 @@ The LCD screen will say "Hello Shuran, Good Luck!".
 
 ![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
 
-![3D-Scaning-3](./Week5_3D-Scaning/3D-Scaning_3.jpg) 
+![Your Mood Cooker-3](./Final Project/Final_Project_3.jpg) 
